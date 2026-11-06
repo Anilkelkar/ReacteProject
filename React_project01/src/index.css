@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  body{
+     /* background-image: url( https://t3.ftcdn.net/jpg/04/32/15/18/240_F_432151892_oQ3YQDo2LYZPILlEMnlo55PjjgiUwnQb.jpg); */
+       
+  background-repeat: no-repeat;
+  background-size: cover; /* Optional: Image ko full screen fit karne ke liye */
+  background-position: center; /* Optional: Center align */
+ position:-webkit-sticky;
+     font-size: large;
+  }
